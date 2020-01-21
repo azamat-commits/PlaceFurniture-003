@@ -6,21 +6,21 @@
     
         <Name>PlaceFurniture-003</Name>
         
-        <FullClassName>Lab1PlaceGroup.Class1</FullClassName>
+        <FullClassName>PlaceFurniture-003.Class1</FullClassName>
 
-        <Text>Lab1PlaceGroup</Text>
+        <Text>PlaceFurniture-003</Text>
         
         <Description>Places the Group at Particular Point</Description> 
         
         <VisibilityMode>AlwaysVisible</VisibilityMode>
         
-        <Assembly>C:\test\Lab1PlaceGroup\Lab1PlaceGroup\bin\Debug\Lab1placeGroup.dll</Assembly>
+        <Assembly>C:\Revit-plugins\PlaceFurniture-003.dll</Assembly>
         
        <AddInId>502fe383-2648-4e98-adf8-5e6047f9dc34</AddInId>
 
-        <VendorId>ADSK</VendorId>
+        <VendorId>Archtamga</VendorId>
     
-        <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+        <VendorDescription>Archtamga </VendorDescription>
     </AddIn>
     
 </RevitAddIns>
